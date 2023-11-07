@@ -17,6 +17,9 @@
     justify-content: space-between;
     padding: 1vw;
 }
+.container:hover {
+    transform: translateY(-5px); 
+}
 
 .image {
     position: relative;
